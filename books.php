@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://github.com/bartoszulc
+ * @link              https://github.com/BartoSzulc/books
  * @since             1.0.0
  * @package           Books
  *
  * @wordpress-plugin
  * Plugin Name:       Books
- * Plugin URI:        https://github.com/bartoszulc
+ * Plugin URI:        https://github.com/BartoSzulc/books
  * Description:       This plugin automates the creation of a custom post type called "Books" in WordPress. It seamlessly integrates Advanced Custom Fields (ACF) to capture essential book details like author, publication year, and genre.
  * Version:           1.0.0
  * Author:            Bartosz Szulc
- * Author URI:        https://github.com/bartoszulc/
+ * Author URI:        https://github.com/BartoSzulc
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       books
