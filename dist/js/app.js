@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_roots_bud=globalThis.webpackChunk_roots_bud||[]).push([[143],{"./scripts/app.js":()=>{},"./styles/app.scss":()=>{}},s=>{var p=p=>s(s.s=p);p("./scripts/app.js"),p("./styles/app.scss")}]);

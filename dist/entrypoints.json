@@ -1,0 +1,12 @@
+{
+  "app": {
+    "js": [
+      "/wp-content/plugins/books/dist/js/runtime.js",
+      "/wp-content/plugins/books/dist/js/app.js"
+    ],
+    "css": [
+      "/wp-content/plugins/books/dist/css/app.css"
+    ],
+    "dependencies": []
+  }
+}

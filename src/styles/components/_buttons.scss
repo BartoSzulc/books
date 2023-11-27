@@ -1,0 +1,6 @@
+.btn-primary {
+    @apply min-w-[228px] min-h-[60px] bg-blue-500 text-white text-sm font-semibold flex items-center justify-center border border-solid border-blue-500 transition-all rounded-sm;
+    &:hover {
+        @apply bg-white text-black;
+    }
+}

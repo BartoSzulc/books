@@ -1,0 +1,16 @@
+
+// - Vendor
+@import 'vendor/frameworks';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+
+// - Components
+@import 'components/buttons';
+
+// - Templates
+@import 'templates/archive';
+@import 'templates/single';
+
+body {
+    @apply bg-gray-200;
+    @apply font-montserrat text-black #{!important};
+}

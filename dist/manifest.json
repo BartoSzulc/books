@@ -1,0 +1,8 @@
+{
+  "app.css": "/wp-content/plugins/books/dist/css/app.css",
+  "app.js": "/wp-content/plugins/books/dist/js/app.js",
+  "runtime.js": "/wp-content/plugins/books/dist/js/runtime.js",
+  "images/hero.png": "/wp-content/plugins/books/dist/images/hero.png",
+  "images/book-placeholder.jpg": "/wp-content/plugins/books/dist/images/book-placeholder.jpg",
+  "entrypoints.json": "/wp-content/plugins/books/dist/entrypoints.json"
+}
